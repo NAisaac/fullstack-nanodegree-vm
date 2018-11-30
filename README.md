@@ -1,4 +1,5 @@
 fullstack-nanodegree-vm
 =============
 
-Common code for the Relational Databases and Full Stack Fundamentals courses
+Udacity's common code for working with Vagrant
+-RESTful api
